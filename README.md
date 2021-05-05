@@ -2,13 +2,12 @@
 
 [![][banner-url]][repo-url]  
 
-**Hi**  
-[ [See repo ↗︎][repo-url] ]
+
   
 
 </div>
 
-[![]][repo-url]  
+
 
 
 [panda]: https://user-images.githubusercontent.com/7276145/117089593-ec02d000-ad23-11eb-8019-80bd34eecaa3.gif
