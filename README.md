@@ -1,6 +1,5 @@
 <div align="center">
 
-[![][banner-url]][repo-url]  
 
 
   
