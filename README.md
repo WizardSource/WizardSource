@@ -1,6 +1,6 @@
 <div align="center">
 
- ## Coding Day & Night
+ ## coding day and night
 
 
   
