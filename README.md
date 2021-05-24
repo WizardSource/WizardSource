@@ -1,7 +1,5 @@
 <div align="center">
 
- ## coding day and night
-
 
   
 ![dayNnight](https://user-images.githubusercontent.com/7276145/119195665-0393c580-ba53-11eb-8dfb-fec7185eaf7e.gif)
