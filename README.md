@@ -2,7 +2,7 @@
 
 
   
-![dayNnight](https://user-images.githubusercontent.com/7276145/119195665-0393c580-ba53-11eb-8dfb-fec7185eaf7e.gif)
+[banner-url]: https://user-images.githubusercontent.com/7276145/117090386-308f6b00-ad26-11eb-9763-2c0c3d47c5db.gif
 
 </div>
 
@@ -18,6 +18,7 @@
 [banner-url]: https://user-images.githubusercontent.com/7276145/117090386-308f6b00-ad26-11eb-9763-2c0c3d47c5db.gif
 
 
+![dayNnight](https://user-images.githubusercontent.com/7276145/119195665-0393c580-ba53-11eb-8dfb-fec7185eaf7e.gif)
 
 Here are some ideas to get you started:
 
