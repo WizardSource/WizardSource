@@ -48,4 +48,4 @@
   <a href="mailto:cliffert@gmx.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-![HandGreet](https://user-images.githubusercontent.com/7276145/126818898-199b4033-559d-499b-bec6-b8a9c1047f57.gif)
+
