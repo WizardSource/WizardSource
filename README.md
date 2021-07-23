@@ -11,7 +11,7 @@
   </p>
   	
   💡 &nbsp;I like to explore and learn new technologies.\
-  🔧 &nbsp;My skills include: `Javascript (ES6)`, `Typescript`, `Node.js`, `Express`, `React (Hooks)`, `Redux`, `RESTful APIs`, `MaterialUI`, `Git`, `SQL`, `NoSQL`, `Webpack`, `BCrypt`, `CI/CD`, `Agile`, `Scrum`, `HTML/CSS`, `TDD (Jest, Enzyme, Mocha)`, `AWS`, `Docker`, `OAuth`, `Authentication (Cookies, Sessions, JWTs)`.\
+  🔧 &nbsp;My skills include: `Javascript (ES6)`, `Typescript`, `Node.js`, `Express`, `React (Hooks)`, `Redux`, `RESTful APIs`, `MaterialUI`, `Tailwind`, `Git`, `SQL`, `NoSQL`, `Webpack`, `BCrypt`, `CI/CD`, `Agile`, `Scrum`, `HTML/CSS`, `TDD (Jest, Enzyme, Mocha)`, `AWS`, `Docker`, `OAuth`, `Authentication (Cookies, Sessions, JWTs)`.\
   💬 &nbsp;Feel free to reach out to me about consulting, design, technolgy or just for any interesting discussions 
 
 </p>
