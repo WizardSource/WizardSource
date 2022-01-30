@@ -1,7 +1,4 @@
 
-# <img src="https://user-images.githubusercontent.com/7276145/126818898-199b4033-559d-499b-bec6-b8a9c1047f57.gif" width="35px" />&nbsp;<b> Hi, I'm Cliff</b>
-
-
 <p aligh="left">
   <p>Welcome!</br></br>
   <b>Software Engineer</b>
