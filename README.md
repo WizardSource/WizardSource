@@ -41,6 +41,5 @@
 <!--   <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" /> -->
 </p>
 
-<h2>🌎 &nbsp;Where to find me</h2>
 
 
