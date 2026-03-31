@@ -6,7 +6,7 @@
   <p>Welcome!</br></br>
   <b>Software Engineer</b>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/United-states_flag_icon_round.svg/2048px-United-states_flag_icon_round.svg.png" width="14px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Brazilian_flag_icon_round.svg/1024px-Brazilian_flag_icon_round.svg.png" width="14px"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Brazilian_flag_icon_round.svg/1280px-Brazilian_flag_icon_round.svg.png?_=20180509193906" width="14px"/> 
 
   </p>
   	
